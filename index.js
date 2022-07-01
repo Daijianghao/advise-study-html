@@ -5,9 +5,10 @@
 // @description  避免颓废
 // @author       tim1103,huxin
 // @match        *://www.luogu.com.cn/discuss/*
-// @match        *://www.chess.com/
-// @match        *://www.lichess.org
-// @match        *://www.zhihu.com
+// @match        *://www.chess.com/*
+// @match        *://www.lichess.org/*
+// @match        *://www.zhihu.com/*
+// @match        *://www.bilibili.com/*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
